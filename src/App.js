@@ -49,7 +49,7 @@ function App() {
     )
   }
   return (
-    <main className=' w-1/3 mx-auto  m-20'>
+    <main className=' w-2/3 mx-auto  m-20'>
       <Tours tours={tours} removeTour={removeTour} />
     </main>
   )
